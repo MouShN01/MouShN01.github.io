@@ -1,0 +1,30 @@
+.head{
+    background-image: url(../img/head.jpg);
+    width: 100%;
+    min-height: 200px;
+    background-size: cover;
+    background-position: center;
+    padding: 5px;
+    color: black;
+}
+
+.text{
+    font-size: 20px;
+}
+
+.content{
+    margin-bottom: 50px;
+}
+
+img{
+    height: auto;
+    width: 100%;
+}
+
+body{
+    background-color: azure;
+}
+
+.navigation{
+    margin-bottom: 30px;
+}

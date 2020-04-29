@@ -1,0 +1,7 @@
+.head{
+    background-image: url(../img/head.jpg);
+    min-height: 600px;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 30px;
+}
